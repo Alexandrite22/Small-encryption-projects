@@ -6,7 +6,7 @@ namespace SmallEncryptionProjects
     {
         static void Main(string[] args)
         {
-            string name = "Maria Rivera1872458~~```()()";
+            string name = "Alex Hewson!";
             ASCIIEncrypt test = new ASCIIEncrypt();
             Console.WriteLine(
             "'"+name+"' will encrypt to '" + test.Encrypt(name) + "'.\n" +

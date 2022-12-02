@@ -21,9 +21,7 @@ namespace SmallEncryptionProjects
             if (input.Length % 2 == 1)                          //checks for an off number of charecters and removes the last one for later use
             {
                 oddLengthSingleChar = inputTemp.Substring(inputTemp.Length - 1, 1);
-                Console.WriteLine(oddLengthSingleChar);
                 inputTemp = input.Substring(0, input.Length - 1);
-                Console.WriteLine(inputTemp);
             }
             do
             {
@@ -58,7 +56,7 @@ namespace SmallEncryptionProjects
         public string decrypt(string input)
         {
             string decryptedString = "";
-            if(!(input.Length%4 == 0 || input.Length-1%4 == 0) == true)
+            if(((input.Length%4) == 0 || (input.Length-1)%4 == 0) == false)
             {
                 return "String cannot be decrypted, please input a string of the correct length";
             }
