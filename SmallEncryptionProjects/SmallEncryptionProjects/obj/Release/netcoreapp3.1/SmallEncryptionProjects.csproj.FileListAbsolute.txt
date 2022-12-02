@@ -1,0 +1,13 @@
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.exe
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.deps.json
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.runtimeconfig.json
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.runtimeconfig.dev.json
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.dll
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\bin\Release\netcoreapp3.1\SmallEncryptionProjects.pdb
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.AssemblyInfoInputs.cache
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.AssemblyInfo.cs
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.csproj.CoreCompileInputs.cache
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.dll
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.pdb
+C:\Users\Student\git\Small-encryption-projects\SmallEncryptionProjects\SmallEncryptionProjects\obj\Release\netcoreapp3.1\SmallEncryptionProjects.genruntimeconfig.cache
