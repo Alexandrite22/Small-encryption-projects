@@ -26,9 +26,9 @@ namespace SmallEncryptionProjects
                 }
                 output = output + (int)input[i];
             }
-            long converted = Int64.Parse(output);
-            return converted;
+            return Int64.Parse(output);
         }
+        //need to create a function that t
         private string ConvertInputToPrimeFactors(long input)
         {
             List<long> primeNumbers = new List<long>(2);
