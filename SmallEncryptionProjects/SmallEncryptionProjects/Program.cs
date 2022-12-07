@@ -6,11 +6,15 @@ namespace SmallEncryptionProjects
     {
         static void Main(string[] args)
         {
+            ASCIIEncrypt Ascii = new ASCIIEncrypt();
+            EncryptPrimeFactorReduction PrimeFactor = new EncryptPrimeFactorReduction();
+
             string name = "Alex Hewson!";
-            ASCIIEncrypt test = new ASCIIEncrypt();
-            Console.WriteLine(
-            "'"+name+"' will encrypt to '" + test.Encrypt(name) + "'.\n" +
-            "'" + test.Encrypt(name) + "' will decrypt back to '" + test.decrypt(test.Encrypt(name)) + "'!");
+            Console.WriteLine("'"+name+"' Encrypted: "+Ascii.Encrypt(name));
+            Console.WriteLine("'" + Ascii.Encrypt(name) + "' Decrypts: " + Ascii.Decrypt(Ascii.Encrypt(name)));
+
+            Console.WriteLine("'"+name+"' Encrypted: "+PrimeFactor.Encrypt(name));
+
         }
     }
 }

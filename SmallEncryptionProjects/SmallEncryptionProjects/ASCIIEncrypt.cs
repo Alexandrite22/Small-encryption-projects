@@ -53,7 +53,7 @@ namespace SmallEncryptionProjects
         //each chunk of four will consist of (a single char which ascii value is between 32-126)
         //and an int between 64 (written as 064) and (written as 252)
         //if any of those numbers fall outside of that range the string is invalid and will return (Invalid Encrypted File, check validity)
-        public string decrypt(string input)
+        public string Decrypt(string input)
         {
             string decryptedString = "";
             if(((input.Length%4) == 0 || (input.Length-1)%4 == 0) == false)
